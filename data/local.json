@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Jong Tae Lim",
+        "title": "President",
+        "profile": "□ Major: Ph. D. in Photonics Physics        (Nano structures of semiconductors) □ Experience- ‘14~Present : Mentor for incubating startups  in Daegu CCEI(Center for Creative Economy &  Innovation) -‘12~’14 : Management of Technology in SAIT,    (Samsung Advanced Institute of Technology) -‘10~’12 : New Business Development,             in Digital Home Appliance Division -‘08~’10 : Connected TV Planning Group,             in Visual Display Division-‘03~’08 : Technology Planning Group            in Visual Display Division-‘00~’03 : Engineer for developing TV            in Visual Display Division-‘97~’00 : Research Associates in Stanford Univ.          Sandia National Laboratories in US",
+        "image": "jongTaeLim.png"
+    },
+    {
+        "name": "Kihwan Lee",
+        "title": "Mentoring Team Leader",
+        "profile": "□ Major: Electrionics engineering        □ Experience         - Stretigic Marketing Team, Sales Planning (DS)          . PLM (Product Lifecycle Management) Manager          . Sample Process Improvement TF          . SMB SSD Value Chian efficiency TF          . Advanced Analytics Tool Development TF           (Project Management, Sales Analytics, …)",
+        "image": "KihwanLee.png"
+    },
+    {
+        "name": "Jinsung Kim",
+        "title": "Mentoring Consultant",
+        "profile": "□ Major: Ph.D in Electrical Engineering        (Auditory System of a Humanoid Robot)□ Experience- '15 ~Present : Creativity and Innovation Center(SEC)- ’14 ~ ’15 : IP Prosecution Team(SEC)- ’12 ~ ’14 : Multimedia R&D Team(SEC)- ’10 ~ ’11 : Innovative Equipment Technology Research Team(SEC)- ’99 ~ ’10 : Intelligent Robot Research Center(KIST)",
+        "image": "JinsungKim.png"
+    },
+
+    {
+        "name": "SangMin Lee",
+        "title": "S/W Engineer",
+        "profile": "□ Major: Computer Science        □ Experience        - '16 ~Present : Samsung Cloud development.        - ’15 ~ ’16 : IMS(VOLTE) development.        - ’12 ~ ’15 : Factory app development.        - ’11 ~ ‘12 : Fota development.        - ’09 ~ ’11 : RIL(Radio Interface layer) Development.",
+        "image": "SangMinLee.png"
+    },
+    
+    {
+        "name": "Hyeonji Kim",
+        "title": "Sales and Marketing",
+        "profile": "□ Major: Economics        □ Experience        -‘14~Present : Marketing(CRM) (SEC)           -‘12~’13 : B2C sales management (SEC)",
+        "image": "hyeonji.png"
+    },
+    
+    {
+        "name": "Seonwoo Yoo",
+        "title": "Design Strategist",
+        "profile": "□ Major: Product Design & Biz Administration        □ Experience         - 2015 ~ Present : User Experience,                             Corporate Design Center        - 2013 ~ 2015 : Product Strategy,                          Visual Display Division        - 2010 ~ 2013 : Business consultant,                         Communication,                          Media & High Tech., Accenture        - 2005 ~ 2009 : Product Designer & Design                         Strategist,                          Mobile Communication Lab,                          LG Electronics",
+        "image": "SeonwooYoo.png"
+    },
+    
+    {
+        "name": "Kay Kim",
+        "title": "Customer Satisfaction Specialist",
+        "profile": "□ Major: Mass-communication, Cristian Culture        □ Experience         - ’17 ~ Present : Planning/Operation of         CS Application/ChatBot        - ’14 ~ ’16 : Customer Satisfaction Area Manager        (S.W.Asia)        - ’13 :Service Operation of Samsung Hub Global        - ’12 : Service Planning of US market               (Movie/TV content)        - ’11 : Area Manager of Samsung Apps in EU        -’09 ~ ’10 : Servie Planning of messaging service                    (Social Hub application)",
+        "image": "kaykim.png"
+    },
+    
+    {
+        "name": "Minsu Kim",
+        "title": "Engineer",
+        "profile": "□ Major: M.S, Electrical Engineering (Computer Architecture)        □ Experience           - '18 ~Present, Test-board developments (SEC)          - '15 ~ '17     Product Planning (SEC)",
+        "image": "MinsuKim.png"
+    },
+
+    {
+        "name": "Taewoo Kang",
+        "title": "Mechanical Engineer",
+        "profile": "□ Major: Mechanical Engineering         □ Experience        -‘10~Present : HAVC Development (SEC)",
+        "image": "TaewooKang.png"
+    },
+    
+    {
+        "name": "Jae So",
+        "title": "Sales & Marketing",
+        "profile": "□ Major: Business (Supply Chain Management)        □ Experience        -‘10~Present : 17~present Strategy Planning",
+        "image": "JaeSo.png"
+    },
+    
+    {
+        "name": "HyungJin Seo",
+        "title": "SW Engineer",
+        "profile": "□ Major: Electronic Engineering        □ Experience        - `16~present, Service Planning & Development        - `12~`16, Lab Leader of Regional Business Solutions & Open Innovation at Samsung Research Center Russia         - `10~`12 Web Technology Development on SmartTV        `01~`09 Multimedia Technology Development on various devices such as settop, camcorder, camera, and SmartTV        - `07~ present, TRIZ Specialist",
+        "image": "HyungJinSeo.png"
+    },
+    
+    {
+        "name": "Moa Park",
+        "title": "Management",
+        "profile": "□ Major: Environment engineering        □ Experience         - '13 ~Present, Environment Safety management (DS)",
+        "image": "MoaPark.png"
+    },
+    
+    {
+        "name": "Hay Hyewon Kim",
+        "title": "UX Designer",
+        "profile": "□ Major: M.A. in Interaction Design        □ Experience        - ‘18~Present : User experience design in Automotive Electronic Business Division        -‘16~’17 : User experience design in C-Lab        -‘11~’18 : User experience design in Mobile Division",
+        "image": "HayHyewonKim.png"
+    },
+    
+    {
+        "name": "Sun Gi LEE",
+        "title": "Mobile Service Product Specialist",
+        "profile": "□ Major: Master in Electronic Engineering        (Mobile Communication) □ Experience - ‘14~Present : Mobile Service Planning, Development and Management in Mobile Division-‘12~’13 : Creative Lab (SEC)   - `08~`12 : Director of Regional Business Solutions & Open Innovation at Samsung Research Center Russia - ‘00~’08 : Mobile Communication R&D Engineer in Mobile Division",
+        "image": "SunGiLEE.png"
+    },
+    
+    {
+        "name": "Jihyoung Jeong",
+        "title": "Sales&Marketing",
+        "profile": "□ Major: Sociology.        □ Experience           - ’16 ~     TV Voice Interaction Global Lead PM          - ’15 ~     IoT Convergence PM (SEC)        - '14 ~     Business Intelligent (SEC)        - ’13 ~     Partner Sales MGMT (Microsoft)        - '12 ~     Strategic Consulting (KMAC)",
+        "image": "JihyoungJeong.png"
+    },
+
+    {
+        "name": "Hana Kim",
+        "title": "Management",
+        "profile": "□ Major: Mechanical engineering        □ Experience         - '13 ~         Human Resource Development (SEC)          - '08 ~ '13     Air condition R&D (SEC)",
+        "image": "HanaKim.png"
+    },
+    
+    {
+        "name": "Hochul Hwang",
+        "title": "S/W Engineer",
+        "profile": "□ Major : Patent R&D Group Staff Engineer [IM]        □ Experience        - ’12 ~ Present : IP(Intellectual Property) Application, Patent trend analysis        - ’08 ~ ’12 : Audio R&D Group Digital Signal Process Engineer",
+        "image": "HochulHwang.png"
+    },
+    
+    {
+        "name": "HyoYoung Kim",
+        "title": "S/W Engineer",
+        "profile": "□ Major: Software Engineering        □ Experience        - 2010 – Present           Senior Software Engineer, Mobile Communications Div.,  Samsung Electronics        Participated as a system software engineer in projects for major flagship mobile devices such as Galaxy S9 and Note 8.        - 2008 – 2010        Research Staff,  Future IT lab,  Samsung Advanced Institute of Technology         Participated in projects for developing parallel programming tools to help programmers develop better parallel programs        - 2005 – 2007        Software Engineer,  Software laboratory,  Samsung Electronics Participated in projects for developing OS virtualization solutions specialized in multi-core processors",
+        "image": "HyoYoungKim.png"
+    },
+    
+    {
+        "name": "Hyunjin Jang",
+        "title": "Management",
+        "profile": "□ Major: Business Administration        □ Experience          - ‘17~ Present, Executives Assessment (SEC)          - ‘16~’17, Business Operation regarding royalties (SEC)         - ‘14~’16, O/H management (SEC)",
+        "image": "HyunjinJang.png"
+    },
+    
+    {
+        "name": "Boram Lee",
+        "title": "UX designer",
+        "profile": "Major : Electronic engineering        Experience         * 16 - 18 : Mobile application UX design        * 14 - 16 : UX strategy        * 09 - 14 : Mobile Radio Interface Layer                     Development",
+        "image": "BoramLee.png"
+    },
+    
+    {
+        "name": "Kim Ki Beom",
+        "title": "Software Engineer",
+        "profile": "□ Major: Master of Science in Electrical Engineering                 (Image Signal Processing)        □ Experience        -‘16~Present : SW Engineer for developing new        services at Mobile Business        -‘15~’16 : SW Engineer for developing System        Performance Optimization at Mobile Business        -‘10~’15 : SW Engineer for developing System        Optimization in DMC R/D Center        -‘08~’10 : SW Engineer for developing Media        Platform in Digital Media R/D Center",
+        "image": "KimKiBeom.png"
+    },
+    
+    {
+        "name": "Ikseon Kang",
+        "title": "Management/Product Planning",
+        "profile": "□ Major: PhD in Management of Technology        MSEE, BSEE, BBA□ Experience- `17~Present : Principal engineer, Global TTT (Think Tank Team), Samsung Research- ‘15~`17 : Senior professional, Creativity & Innovation Center, Samsung Research- ‘08~’15 : Senior Manager, Mobile Product Planning, Samsung Mobile- ‘07~’08 : Assistant Director, SW Industry Team,Ministry of Information & Communication, Gov.- ‘03~’07 : Junior Engineer, DTV Lab, LGE",
+        "image": "IkseonKang.png"
+    },
+    
+    {
+        "name": "Wonseop Lee",
+        "title": "S/W Engineer",
+        "profile": "□ Major: Economics / Management of Technology         □ Experience        Samsung Electronics Memory Business        Solution Product & Dev: PMO          - SSD Client Product PM, Dev Roadmap, inefficient model Management         SW Dev Team: Software Developer         - Open Source, Static Analysis, configuration management",
+        "image": "wonseoplee.png"
+    }, 
+
+    {
+        "name": "Yangsu Kim",
+        "title": "S/W Engineer",
+        "profile": "□ Major: Robotics        □ Experience        - ‘18~’ Present: Software Engineer in System LSI Business        - ‘16~’18 : Software Engineer in Samsung Strategy & Innovation Center        - ‘14~’16 : Software Engineer in Printing Solution Business",
+        "image": "YangsuKim.png"
+    },
+
+        
+    {
+        "name": "Michael Hyung Heo",
+        "title": "S/W Engineer",
+        "profile": "□ Major: Computer Science        □ Experience        Samsung Mobile R&D S/W        Telephony & Network Programmer        SPICE Auditor        CISA Certified",
+        "image": "HyungHeo.png"
+    },
+    
+    {
+        "name": "Gamin Park",
+        "title": "UI designer",
+        "profile": "□ Major: Graphic Design (GUI)        □ Experience        Samsung Electronics Visual Display UX team          - UX / UI         - GUI design",
+        "image": "GaminPark.png"
+    },
+     
+    {
+        "name": "Taehoon Lee",
+        "title": "S/W Engineer",
+        "profile": "□ Major: Electronic Engineering        □ Experience        Samsung Electronics Visual Display Business        Innovation PM         - New Product Planning         - Prototyping",
+        "image": "TaehoonLee.png"
+    },
+    
+    {
+        "name": "Jeong I Byun",
+        "title": "B2B Sales and Marketing",
+        "profile": "□ Major: Chinese language and literature        □ Experience        - ‘17 ~ ‘18 : B2B Account Receivable Management        - ‘13 ~ ’17 : B2B sales and marketing                     SCM (Supply Chain Management)        Business opportunities management",
+        "image": "JeongIByun.png"
+    },
+     
+    {
+        "name": "Taks Hyungtak Choi",
+        "title": "S/W Engineer",
+        "profile": "□ Major: MSc in Computer Engineering        (Artificial Intelligence)□ Experience-‘18~Present : Technical Leader in AI Center at Samsung Research-‘17~’17 : Visiting Researcher at University of Southern California in US-‘14~’17 : Senior Engineer at Artificial IntelligenceTeam at Software R/D Center-‘12~’14 : Engineer for developing Social Service        and Cloud Platform in DMC R/D Center-‘05~’12 : Engineer for developing Smart          TV/IPTV in Digital Media R/D Center",        "image": "TaksHyungtakChoi.png"
+    },
+    
+    {
+        "name": "SangYangHeo",
+        "title": "SW Engineer",
+        "profile": "□ Major: Ph.D in Electrical Engineering        (Auditory System ofa Humanoid Robot)□ Experience- '16 ~Present : Android and Google TV (Driver, Framework)- ’14 ~ ’15 : Develop Samsung TV SW(Tizen, Orsay)- ’10 ~ ’14 : Develop STB            (Linux Driver, Audio, Video)",
+        "image": "SangYangHeo.png"
+    },
+
+     {
+        "name": "Jin Seo",
+        "title": "Sales & Marketing",
+        "profile": "□ Major: Electronics         □ Experience           - '15 ~Present, Global Smartphone Planning (IM)          - '13 ~ '15     New Business Development  (IM)          - '01 ~ '13     North America Mobile Phone Planning (IM)",
+        "image": "JinSeo.png"
+    },
+    
+    {
+        "name": "Gina Hahm",
+        "title": "Management",
+        "profile": "□ Major: Telecommunications engineering        □ Experience           - '16 ~Present, Venture investments (SEC)            · CVC management, M&A, investment          - '10 ~ '16     Capex management (SEC)          - '06 ~ '10     Biz Industry analysis (SEC)",
+        "image": "GinaHahm.png"
+    },
+    
+    {
+        "name": "Wanhyoung Lee",
+        "title": "Sales & Marketing",
+        "profile": "□ Major: Product and Service Design        Mechanical Engineering□ Experience-‘17~Present : IoT Product & Strategy Team(SEC)-‘16~’17 : Creative Lab (SEC)-‘15~’16 : New product and service planning (SEC)   -‘06~’15 : Mechanical Engineering of smartphone (SEC)",
+        "image": "WanhyoungLee.png"
+    } 
+]
